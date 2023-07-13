@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    
+}
+#name{
+    background-color: blueviolet;
+    background-attachment: fixed;
+}
+#heroes{
+    background-color: royalblue;
+    background-repeat: unset;
+}
+
+#link{
+    text-decoration: none;
+   
+}
